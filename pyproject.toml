@@ -18,7 +18,7 @@ prerelease = false
 env = "GIT_COMMIT_AUTHOR"
 default = "semantic-release <semantic-release>"
 
-[semantic_release.commit_parser_options]
+[tool.semantic_release.commit_parser_options]
 major_tags = [":boom:"]
 minor_tags = [
     ":fire:", ":sparkle:" ]
