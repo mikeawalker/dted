@@ -1,6 +1,19 @@
 # CHANGELOG
 
 
+## v0.0.2 (2024-12-30)
+
+### :memo:
+
+- :memo: fix version numbering in setup.py
+  ([`441dd44`](https://github.com/mikeawalker/dted/commit/441dd449c8dfe0167cf2d62f3dae5c40f435bc7d))
+
+### Other
+
+- Fix
+  ([`5facf05`](https://github.com/mikeawalker/dted/commit/5facf05a3d614434076a5a76237c91f6412ec7c8))
+
+
 ## v0.0.1 (2024-12-30)
 
 ### :memo:
